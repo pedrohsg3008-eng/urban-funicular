@@ -2,6 +2,14 @@
 
 Um site para ajudar idosos a navegar pela internet com segurança e facilidade.
 
+## 👤 Desenvolvedor
+
+- **Aluno**: Pedro (pedrohsg3008-eng)
+- **Tipo de Trabalho**: Projeto Acadêmico - Faculdade
+- **Data**: Abril de 2026
+- **Prazo**: 30 dias
+- **Status**: Em Desenvolvimento ✓
+
 ## 📋 Funcionalidades
 
 1. **Guias Educativos** - Tutoriais simples sobre segurança online
@@ -56,3 +64,7 @@ urban-funicular/
 ## 📝 Notas para o Desenvolvimento
 
 Este é um projeto para aprender. Comece simples e vá adicionando funcionalidades aos poucos!
+
+## 🙏 Agradecimentos
+
+Este projeto foi desenvolvido com auxílio de ferramentas de inteligência artificial como assistente educacional, mas todo o conceito, decisões de design e compreensão do código foram desenvolvidos pelo aluno.
