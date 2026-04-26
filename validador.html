@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validador de Sites</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>🔍 Validador de Sites</h1>
+        <p>Verifique se um site é seguro antes de acessar</p>
+    </header>
+
+    <nav class="menu-principal">
+        <a href="index.html" class="menu-btn">Início</a>
+        <a href="guias.html" class="menu-btn">Guias</a>
+        <a href="validador.html" class="menu-btn ativo">Validador</a>
+        <a href="links-uteis.html" class="menu-btn">Links Úteis</a>
+    </nav>
+
+    <main>
+        <section class="formulario-validacao">
+            <h2>Digite a URL do site para validar</h2>
+            <p>Exemplo: https://www.google.com.br</p>
+            
+            <div class="formulario">
+                <input 
+                    type="text" 
+                    id="urlInput" 
+                    placeholder="Digite a URL aqui..." 
+                    class="input-grande"
+                >
+                <button onclick="validarSite()" class="btn-grande btn-validar">Validar Site</button>
+            </div>
+        </section>
+
+        <section id="resultado" style="display: none;">
+            <div class="resultado-box">
+                <h2 id="tituloResultado"></h2>
+                <div id="detalhesResultado"></div>
+            </div>
+        </section>
+
+        <section class="info-validacao">
+            <h2>Como o Validador Funciona?</h2>
+            <p>O validador verifica:</p>
+            <ul>
+                <li>✅ Se o site usa <strong>HTTPS</strong> (criptografia segura)</li>
+                <li>✅ Se é um site <strong>conhecido e confiável</strong></li>
+                <li>✅ Se está <strong>registrado corretamente</strong></li>
+                <li>✅ Sinais de <strong>phishing</strong> ou fraude</li>
+            </ul>
+            
+            <h3>O que significa cada resultado:</h3>
+            <div class="resultado-info">
+                <h4>🟢 SEGURO</h4>
+                <p>O site passou em todas as verificações. É seguro acessar!</p>
+            </div>
+            <div class="resultado-info">
+                <h4>🟡 CUIDADO</h4>
+                <p>O site tem algum ponto de atenção. Procure por alternativas mais seguras.</p>
+            </div>
+            <div class="resultado-info">
+                <h4>🔴 PERIGOSO</h4>
+                <p>O site pode ser uma fraude ou phishing. NÃO ACESSE!</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 - Assistente Digital para Idosos | Projeto Educacional</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

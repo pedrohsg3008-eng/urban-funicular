@@ -1,74 +1,58 @@
-# 🌐 Urban Funicular - Assistente de Internet para Idosos
+# 🌐 Assistente Digital para Idosos
 
-Um site educativo e seguro para ajudar idosos a navegar pela internet com segurança e confiança.
+Um site para ajudar idosos a navegar pela internet com segurança e facilidade.
 
-## 📋 Objetivo do Projeto
+## 📋 Funcionalidades
 
-Criar um site amigável que ajude idosos a:
-- ✅ Aprender sobre segurança online
-- ✅ Validar se um site é seguro
-- ✅ Acessar links úteis (banco, saúde, etc)
-- ✅ Tirar dúvidas sobre tecnologia
+1. **Guias Educativos** - Tutoriais simples sobre segurança online
+2. **Validador de Sites** - Verificar se um site é suspeito
+3. **Links Úteis** - Acesso rápido a serviços essenciais
 
-## 🎯 Funcionalidades (MVP)
+## 🎯 Objetivo
 
-1. **Página Inicial** - Apresentação clara do projeto
-2. **Guias de Segurança** - Dicas sobre phishing e fraudes
-3. **Validador de Sites** - Verificar se um URL é suspeito
-4. **Links Úteis** - Acesso rápido a serviços importantes
-
-## 🛠️ Tecnologias
-
-- **HTML5** - Estrutura das páginas
-- **CSS3** - Design simples e acessível
-- **JavaScript** - Interatividade básica
+Criar uma plataforma acessível e fácil de usar para idosos aprender sobre segurança na internet e acessar serviços online com confiança.
 
 ## 📁 Estrutura do Projeto
 
 ```
 urban-funicular/
 ├── index.html           # Página inicial
-├── guias.html          # Guias de segurança
+├── guias.html          # Guias educativos
 ├── validador.html      # Validador de sites
 ├── links-uteis.html    # Links úteis
 ├── css/
-│   └── style.css       # Estilos do site
+│   └── style.css       # Estilos (fontes grandes, cores contrastantes)
 ├── js/
-│   └── script.js       # Scripts JavaScript
+│   └── script.js       # JavaScript (funcionalidades)
 └── README.md           # Este arquivo
 ```
 
-## 🚀 Como Começar
+## 🚀 Como Usar
 
-1. Clone o repositório
-2. Abra o arquivo `index.html` no navegador
-3. Navegue pelas páginas
+1. Abra o arquivo `index.html` no seu navegador
+2. Navegue pelas páginas usando o menu principal
+3. Escolha a funcionalidade que deseja usar
 
-## 📚 Estrutura do Código
+## 🎓 Tecnologias Usadas
 
-Cada página está bem comentada para você entender:
-- O que cada tag HTML faz
-- Como o CSS deixa o site bonito
-- Como o JavaScript adiciona interatividade
+- **HTML** - Estrutura das páginas
+- **CSS** - Estilo e design acessível
+- **JavaScript** - Interatividade básica
 
-## ⏰ Cronograma
+## 📅 Timeline (30 dias)
 
-- **Semana 1**: HTML das páginas + CSS básico
+- **Semana 1**: Estrutura + Design das páginas ✓
 - **Semana 2**: Funcionalidade do validador
-- **Semana 3**: Melhorias no design
+- **Semana 3**: Guias e banco de dados
 - **Semana 4**: Testes e ajustes finais
 
-## 📝 Notas Importantes
+## 💡 Dicas de Acessibilidade
 
-- O site usa **fontes grandes** (16px+) para idosos
-- **Cores contrastantes** para melhor legibilidade
-- **Navegação simples** com botões grandes
-- **Linguagem clara** sem jargão técnico
+- Letras grandes (18px+)
+- Cores com bom contraste
+- Botões grandes e fáceis de clicar
+- Linguagem simples e clara
 
-## 👨‍💻 Autor
+## 📝 Notas para o Desenvolvimento
 
-Pedro (pedrohsg3008-eng) - Projeto de faculdade
-
----
-
-**Dúvidas?** Veja os comentários dentro do código! Cada arquivo tem explicações para iniciantes. 😊
+Este é um projeto para aprender. Comece simples e vá adicionando funcionalidades aos poucos!
