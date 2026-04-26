@@ -4,8 +4,8 @@ Um site para ajudar idosos a navegar pela internet com segurança e facilidade.
 
 ## 👤 Desenvolvedor
 
-- **Aluno**: Pedro (pedrohsg3008-eng)
-- **Tipo de Trabalho**: Projeto Acadêmico - Faculdade
+- **Aluno**: Pedro Henrique dos Santos (pedrohsg3008-eng)
+- **Tipo de Trabalho**: Projeto Acadêmico - Faculdade Multivix
 - **Data**: Abril de 2026
 - **Prazo**: 30 dias
 - **Status**: Em Desenvolvimento ✓
