@@ -14,33 +14,6 @@ Um site para ajudar idosos a navegar pela internet com segurança e facilidade.
 
 **Link do Site**: https://v0-repositorio-urban-funicular.vercel.app/index.html
 
-### 📱 QR Code para Acessar pelo Celular
-
-```
-████████████████████████████████
-██ ▄▄▄▄▄ █▀▀▀██ ▀▄█▀▄ ▀▄ ▄▄▄▄▄ ██
-██ █   █ █▄▄██▀▀▀█▄█▀█ █ █   █ ██
-██ █▄▄▄█ █▀▄▀█▀ ▀▀▀██▀ █ █▄▄▄█ ██
-██▄▄▄▄▄▄▄█▀▀▀█ ▀ ▀▀▀▀▀▄█▄▄▄▄▄▄▄██
-██▄█ ▄▄█ ▄ ▀  █▀ ▀▄ ▀▀▀▀▀▀▄▄▀█ ██
-██ ▄▀▄▀▄▀▀▄▄▀██▄ ▀▀▀▄ ▀▀▀▀ ▀▀█ ██
-██▄██▄▄▀ ▀▀▀▄▄▀█▀▄▀█▄ ▀▀▀▀▀▀▀█ ██
-██▀▀▀█▀▀▀▄▀▄ █ ▀ ▀▀▀ ▀ █▀▀█▀▄ ██
-██▀▄▄▀█▄█▀██▀█ ██▀▀ ▀▀▀▀▀▀▀▀█ ██
-██▄▄▄▄▄ ▀▀▀█▀▄██▀ ▀▀▀▀ ▀▀▀▀▀▀ ██
-██ ▄▄▄▄▄ █▀▀ ██ █▄ ▀▀ ▄ ▀█▀▀█ ██
-██ █   █ █▄▄▀█▄▀█ ▀▀▀▀ ▀▀▀▀ ▀█ ██
-██ █▄▄▄█ █▀▀▄▀▄▀█▀ ▀▀▀ ▀▀ ▀▀█ ██
-██▄▄▄▄▄▄▄█▄██▄▄▄██▄▄▄▄██▄▄▄▄▄██
-████████████████████████████████
-```
-
-**Como usar**: 
-1. Abra a câmera do seu celular
-2. Aponte para o QR Code
-3. Clique no link que aparecer
-4. Pronto! Você está no site 📲
-
 ## 📋 Funcionalidades
 
 1. **Guias Educativos** - Tutoriais simples sobre segurança online
@@ -66,12 +39,6 @@ urban-funicular/
 └── README.md           # Este arquivo
 ```
 
-## 🚀 Como Usar
-
-1. Abra o arquivo `index.html` no seu navegador
-2. Navegue pelas páginas usando o menu principal
-3. Escolha a funcionalidade que deseja usar
-
 ## 🎓 Tecnologias Usadas
 
 - **HTML** - Estrutura das páginas
@@ -92,19 +59,6 @@ urban-funicular/
 - Cores com bom contraste
 - Botões grandes e fáceis de clicar
 - Linguagem simples e clara
-
-## 📸 Screenshots
-
-*Capturas de tela serão adicionadas em breve*
-
-- Página Inicial
-- Guias de Segurança
-- Validador de Sites
-- Links Úteis
-
-## 📝 Notas para o Desenvolvimento
-
-Este é um projeto para aprender. Comece simples e vá adicionando funcionalidades aos poucos!
 
 ## 🙏 Agradecimentos
 
